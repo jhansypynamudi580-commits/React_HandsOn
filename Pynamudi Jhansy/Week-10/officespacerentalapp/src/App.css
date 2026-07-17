@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+  background-color: #282c34;
+  color: white;
+  padding: 20px;
+}
+
+
+h2 {
+  color: darkblue;
+}
+
+
+.office-card {
+
+  display: inline-block;
+  width: 350px;
+
+  margin: 20px;
+  padding: 20px;
+
+  border: 2px solid black;
+  border-radius: 10px;
+
+  background-color: #f5f5f5;
+
+}
+
+
+.office-card img {
+
+  border-radius: 10px;
+
+}
+
+
+.office-card h3 {
+
+  color: blue;
+
+}
+
+
+p {
+
+  font-size: 18px;
+
+}
